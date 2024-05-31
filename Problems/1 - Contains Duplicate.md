@@ -1,5 +1,9 @@
 ## Using Sort
 
+Time Complexity: O(N) for Sort Function
+
+Space Complexity: O(1)
+
 ```cpp
 class Solution {
 public:
@@ -16,6 +20,10 @@ public:
 ```
 
 ## Using Hash 'Map'
+
+Time Complexity: O(N) for Sort Function
+
+Space Complexity: O(N) if all values are distinct
 
 ```cpp
 class Solution {
